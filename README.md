@@ -11,7 +11,7 @@
 
 ## Educational Course
 
-![Course](./Images/EducationalCourse.JPG)
+![Course](./Images/EducationalCourse.jpg)
 
 ### 수행 프로젝트
 
