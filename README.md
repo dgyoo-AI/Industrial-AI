@@ -29,5 +29,5 @@
 
 ### 포트폴리오 현황
 
-- `2021-05` [유대건](https://github.com/dgyoo-AI/indaidept): https://github.com/dgyoo-AI/indaidept
+- `2021-05` [유대건](https://github.com/dgyoo-AI/Industrial-AI): https://github.com/dgyoo-AI/Industrial-AI
 
