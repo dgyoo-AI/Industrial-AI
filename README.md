@@ -11,12 +11,7 @@
 
 ## Educational Course
 
-<p align="center">
-
-<img src="./Images/EducationalCourse.JPG"  width="640" height="300">
-
-</p>
-</br>
+![Course](./Images/EducationalCourse.JPG)
 
 ### 수행 프로젝트
 
