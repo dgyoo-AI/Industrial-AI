@@ -1,0 +1,15 @@
+2019/11/5 17:35:38 	<POST>	[CM2      152  CM2.CARRIER                    CM2 'S CARRIER ERROR                                                                               2 2019/11/5 17:35:38 ][][F:FM_CM1_AUTO_HANDLER]
+2019/11/5 17:35:49 	<R=ABORT>	[CM2      152  CM2.CARRIER                    Abort                                                                                              2 2019/11/5 17:35:38 ][][F:FM_CM1_AUTO_HANDLER]
+2019/11/5 17:35:49 	<CLEAR>	[CM2      152  CM2.CARRIER                    CM2 'S CARRIER ERROR                                                                               2 2019/11/5 17:35:38 ][][F:FM_CM1_AUTO_HANDLER]
+2019/11/5 18:49:45 	<POST>	[CM1      142  Alarm142                       Undefined Alarm No 142                                                                             < 2019/11/5 18:49:45 ][][F:FM_CM1_AUTO_HANDLER]
+2019/11/5 18:49:55 	<R=ABORT>	[CM1      142  Alarm142                       Standard Abort                                                                                     < 2019/11/5 18:49:45 ][][F:FM_CM1_AUTO_HANDLER]
+
+2019/11/5 18:50:47 	<POST>	[CM2      153  CM2.EXTEND                     CM2 'S EXTEND ERROR                                                                                < 2019/11/5 18:50:47 ][][F:FM_CM1_AUTO_HANDLER]
+2019/11/5 18:51:1	<R=ABORT>	[CM2      153  CM2.EXTEND                     Abort                                                                                              < 2019/11/5 18:50:47 ][][F:FM_CM1_AUTO_HANDLER]
+2019/11/5 18:51:1	<CLEAR>	[CM2      153  CM2.EXTEND                     CM2 'S EXTEND ERROR                                                                                < 2019/11/5 18:50:47 ][][F:FM_CM1_AUTO_HANDLER]
+2020/10/16 14:29:3	<POST>	[CM1      142  Alarm142                       Undefined Alarm No 142                                                                             2 2020/10/16 14:29:3 ][][F:FM_CM1_AUTO_HANDLER]
+2020/10/16 14:29:22	<R=ABORT>	[CM1      142  Alarm142                       Standard Abort                                                                                     2 2020/10/16 14:29:3 ][][F:FM_CM1_AUTO_HANDLER]
+2020/10/16 14:29:22	<CLEAR>	[CM1      142  Alarm142                       Undefined Alarm No 142                                                                             2 2020/10/16 14:29:3 ][][F:FM_CM1_AUTO_HANDLER]
+2021/3/2 18:40:57	<POST>	[TMC    816  TM.BM1_SLOTVLV_OPEN_ERR        TM.BM1 Slot Valve Can't Open -> See ATM Status                                                     2 2021/3/2 18:40:57  ][SD:action(dioVLV_TMBM1_Slot_Open==1)][(1!=0)||?||?][F:TMC_ISOGATE_CONTROL]
+2021/3/2 18:43:2	<R=CLEAR>	[TMC  816  TM.BM1_SLOTVLV_OPEN_ERR        Clear Operation                                                                                    2 2021/3/2 18:40:57  ][SD:action(dioVLV_TMBM1_Slot_Open==1)][(1!=0)||?||?][F:TMC_ISOGATE_CONTROL]
+
