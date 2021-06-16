@@ -7,7 +7,7 @@ MNIST Image 60000 개의 학습 데이터와 10000 개의 테스트 데이터로 학습 후 인식률을
 
 이 테스트를 위해 다음과 같이 numpy, tensorflow, mnist Library 를 사용 합니다.
 
-![Tensorflow](./Images/MachineLearning/MNIST/Library.JPG)
+![Tensorflow](../../../Images/MachineLearning/MNIST/Library.JPG)
 
 ### Sample
 
