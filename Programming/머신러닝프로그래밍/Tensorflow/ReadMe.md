@@ -38,6 +38,7 @@ MNIST Image 60000 개의 학습 데이터와 10000 개의 테스트 데이터로 학습 후 인식률을
 ![MNIST](../../../Images/MachineLearning/MNIST/4_3.png)
 ![MNIST](../../../Images/MachineLearning/MNIST/4_4.png)
 ![MNIST](../../../Images/MachineLearning/MNIST/4_5.png)
+
 ![MNIST](../../../Images/MachineLearning/MNIST/5_1.png)
 ![MNIST](../../../Images/MachineLearning/MNIST/5_2.png)
 ![MNIST](../../../Images/MachineLearning/MNIST/5_3.png)
@@ -68,4 +69,4 @@ MNIST Image 60000 개의 학습 데이터와 10000 개의 테스트 데이터로 학습 후 인식률을
 ### 결과
 
 <img src="../../../Images/MachineLearning/MNIST/Accuracy.jpg" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="Acc Result"></img><br/>
-<img src="../../../Images/MachineLearning/MNIST/Loss.jpg" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="Loss Result"></img><br/>
+<img src="../../../Images/MachineLearning/MNIST/Loss.jpg" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="Loss Result"></img><br/>
