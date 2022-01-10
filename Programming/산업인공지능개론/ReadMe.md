@@ -15,7 +15,6 @@ Durable Rules 패키지를 이용한 프로그램 구성
 
 
 
-
 ## 12주차
 
 CNN 모델(Convolutional Neural Network Models)을 이용한 프로젝트 구성
