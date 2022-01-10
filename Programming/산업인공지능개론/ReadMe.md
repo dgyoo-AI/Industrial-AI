@@ -6,7 +6,7 @@ Durable Rules 패키지를 이용한 프로그램 구성
 
 ### Alarm Monitor
 
-- [Durable Rules](https://github.com/dgyoo-AI/Industrial-AI/tree/main/Programming/산업인공지능개론/4Week AlarmMonitor)
+- [Durable Rules](https://github.com/dgyoo-AI/Industrial-AI/tree/main/Programming/산업인공지능개론/4Week-AlarmMonitor)
 
 
 
