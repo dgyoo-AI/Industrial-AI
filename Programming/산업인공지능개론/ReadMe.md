@@ -1,19 +1,25 @@
-# **»ê¾÷ÀÎ°øÁö´É°³·Ğ** 
+# **ì‚°ì—…ì¸ê³µì§€ëŠ¥ê°œë¡ ** 
 
-## 4ÁÖÂ÷
+## 4ì£¼ì°¨
 
-Durable Rules ÆĞÅ°Áö¸¦ ÀÌ¿ëÇÑ ÇÁ·Î±×·¥ ±¸¼º
+Durable Rules íŒ¨í‚¤ì§€ë¥¼ ì´ìš©í•œ í”„ë¡œê·¸ë¨ êµ¬ì„±
 
 ### Alarm Monitor
 
-- [Durable Rules](https://github.com/dgyoo-AI/Industrial-AI/tree/main/Programming/»ê¾÷ÀÎ°øÁö´É°³·Ğ/4Week-AlarmMonitor)
+- [Durable Rules](https://github.com/dgyoo-AI/Industrial-AI/tree/main/Programming/ì‚°ì—…ì¸ê³µì§€ëŠ¥ê°œë¡ /4Week-AlarmMonitor)
 
 
 
-## 12ÁÖÂ÷
 
-CNN ¸ğµ¨(Convolutional Neural Network Models)À» ÀÌ¿ëÇÑ ÇÁ·ÎÁ§Æ® ±¸¼º
 
-### Bird Image ÇĞ½À ¹× ÀÎ½Ä
 
-- [CNN](https://github.com/dgyoo-AI/Industrial-AI/tree/main/Programming/»ê¾÷ÀÎ°øÁö´É°³·Ğ/12Week)
+
+
+
+## 12ì£¼ì°¨
+
+CNN ëª¨ë¸(Convolutional Neural Network Models)ì„ ì´ìš©í•œ í”„ë¡œì íŠ¸ êµ¬ì„±
+
+### Bird Image í•™ìŠµ ë° ì¸ì‹
+
+- [CNN](https://github.com/dgyoo-AI/Industrial-AI/tree/main/Programming/ì‚°ì—…ì¸ê³µì§€ëŠ¥ê°œë¡ /12Week)
