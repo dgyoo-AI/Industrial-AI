@@ -45,7 +45,7 @@ Chamber 압력, RF Power, RF Reflect, EPD 에 대한 Time Stamp Data 를 준비�
 
 - [LinearRegression](https://github.com/dgyoo-AI/Industrial-AI/tree/main/Programming/산업인공지능개론/9Week-LinearRegression)
 
-![Course](./Images/산업인공지능개론/LinearRegression.jpeg)
+![LinearRegression](../../Images/산업인공지능개론/LinearRegression.jpeg)
 
 이해하기 쉽고 유의미한 데이터를 찾으려고 데이터 선정에 많은 고민을 했지만 적합한 데이터를 찾지 못해   
 테스트 해볼 수 있는 공정 데이터를 확보하여 간단하게 Code 를 작성했다.   
