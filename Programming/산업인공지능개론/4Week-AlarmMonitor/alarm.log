@@ -12,4 +12,3 @@
 2020/10/16 14:29:22	<CLEAR>	[CM1      142  Alarm142                       Undefined Alarm No 142                                                                             2 2020/10/16 14:29:3 ][][F:FM_CM1_AUTO_HANDLER]
 2021/3/2 18:40:57	<POST>	[TMC    816  TM.BM1_SLOTVLV_OPEN_ERR        TM.BM1 Slot Valve Can't Open -> See ATM Status                                                     2 2021/3/2 18:40:57  ][SD:action(dioVLV_TMBM1_Slot_Open==1)][(1!=0)||?||?][F:TMC_ISOGATE_CONTROL]
 2021/3/2 18:43:2	<R=CLEAR>	[TMC  816  TM.BM1_SLOTVLV_OPEN_ERR        Clear Operation                                                                                    2 2021/3/2 18:40:57  ][SD:action(dioVLV_TMBM1_Slot_Open==1)][(1!=0)||?||?][F:TMC_ISOGATE_CONTROL]
-
