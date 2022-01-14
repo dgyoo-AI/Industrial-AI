@@ -1,35 +1,49 @@
 ## Feature Detection
 
-### ÄÚµå ¼³¸í
+### ì½”ë“œ ì„¤ëª…
 
-4ÀåÀÇ ¿µ»ó(boat1, budapest1, newspaper1, s1)À» ¼±ÅÃÇÑ ÈÄ   
-Canny Edge ¿Í Harris Corner¸¦ °ËÃâÇØ¼­ °á°ú Ãâ·Â.
+4ì¥ì˜ ì˜ìƒ(boat1, budapest1, newspaper1, s1)ì„ ì„ íƒí•œ í›„   
+Canny Edge ì™€ Harris Cornerë¥¼ ê²€ì¶œí•´ì„œ ê²°ê³¼ ì¶œë ¥.
 
-### °á°ú
+### ê²°ê³¼
+
+![image](https://user-images.githubusercontent.com/79437689/149483385-2f16619a-d435-4a6e-b57d-4e63dd5b9a60.png)
+![image](https://user-images.githubusercontent.com/79437689/149483747-ed9d6598-5c1d-4f69-8e32-20ec2e6c593b.png)
 
 ## Matching
 
-### ÄÚµå ¼³¸í
+### ì½”ë“œ ì„¤ëª…
 
-¿µ»ó¼Â(boat, budapest, newspaper, s1~2)¿¡¼­ µÎ ÀåÀ» ¼±ÅÃÇÏ¿© SIFT, SURF, ORB ¸¦ ÃßÃâÇÏ°í   
-Matching ¾Ë°í¸®ÁòÀ» ÅëÇØ µÎ ¿µ»óÀ» ÇÏ³ªÀÇ ¿µ»óÀ¸·Î Warping ÇÏ´Â °á°ú Ãâ·Â.
+ì˜ìƒì…‹(boat, budapest, newspaper, s1~2)ì—ì„œ ë‘ ì¥ì„ ì„ íƒí•˜ì—¬ SIFT, SURF, ORB ë¥¼ ì¶”ì¶œí•˜ê³    
+Matching ì•Œê³ ë¦¬ì¦˜ì„ í†µí•´ ë‘ ì˜ìƒì„ í•˜ë‚˜ì˜ ì˜ìƒìœ¼ë¡œ Warping í•˜ëŠ” ê²°ê³¼ ì¶œë ¥.
 
-### °á°ú
+### ê²°ê³¼
+
+![image](https://user-images.githubusercontent.com/79437689/149484146-dcf21b0c-3e87-4d79-bf1a-95fe67151d17.png)
+![image](https://user-images.githubusercontent.com/79437689/149484896-ff056862-f20b-41a7-8213-16302d3f1a1d.png)
+![image](https://user-images.githubusercontent.com/79437689/149485010-0ffa9452-b5fc-4102-a2b8-1d50cd0c0bbe.png)
 
 ## Panorama
 
-### ÄÚµå ¼³¸í
+### ì½”ë“œ ì„¤ëª…
 
-CreaterStitcher ¸¦ ÀÌ¿ëÇÏ¿© 4°³ÀÇ ¿µ»ó¼ÂÀ» ÇÏ³ªÀÇ Panorama ¿µ»óÀ¸·Î Ãâ·Â.
+CreaterStitcher ë¥¼ ì´ìš©í•˜ì—¬ 4ê°œì˜ ì˜ìƒì…‹ì„ í•˜ë‚˜ì˜ Panorama ì˜ìƒìœ¼ë¡œ ì¶œë ¥.
 
-### °á°ú
+### ê²°ê³¼
+
+![image](https://user-images.githubusercontent.com/79437689/149485392-23a199cc-ae59-47f5-9bbe-d8d477dc958c.png)
 
 ## Optical Flow
 
-### ÄÚµå ¼³¸í
+### ì½”ë“œ ì„¤ëª…
 
-µÎ »çÁøÀ» ÀÌ¿ëÇÏ¿© Good Feature to Tracking À» ÃßÃâÇÏ°í   
-Pyramid Lucas-Kanade ¾Ë°í¸®ÁòÀ» Àû¿ëÇÑ ¿µ»ó Ãâ·Â.   
-Farneback °ú DualTVL1 Optical Flow ¸¦ Àû¿ëÇÑ ¿µ»ó Ãâ·Â.
+ë‘ ì‚¬ì§„ì„ ì´ìš©í•˜ì—¬ Good Feature to Tracking ì„ ì¶”ì¶œí•˜ê³    
+Pyramid Lucas-Kanade ì•Œê³ ë¦¬ì¦˜ì„ ì ìš©í•œ ì˜ìƒ ì¶œë ¥.   
+Farneback ê³¼ DualTVL1 Optical Flow ë¥¼ ì ìš©í•œ ì˜ìƒ ì¶œë ¥.
 
-### °á°ú
+### ê²°ê³¼
+
+![image](https://user-images.githubusercontent.com/79437689/149485890-e5495cf0-0636-4773-bec3-6860d8fb3cdf.png)
+![image](https://user-images.githubusercontent.com/79437689/149486005-a4de7384-cf6a-4478-b8c3-c63d09173b1d.png)
+![image](https://user-images.githubusercontent.com/79437689/149486132-999735f3-d599-4560-9d63-1bc73f2bac3c.png)
+
