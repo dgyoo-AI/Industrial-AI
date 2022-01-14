@@ -24,4 +24,4 @@ CNN 을 이용하여 입력 데이터를 학습하고 결과를 도출하는 프로그램 구성.
 학습에 필요한 Image 는 용량이 큰 관계로 다음 경로에서 Download 가능하다.   
 - [CUB200](http://www.vision.caltech.edu/visipedia/CUB-200.html)
 
-- [ResNet](https://github.com/dgyoo-AI/Industrial-AI/tree/main/Programming/머신러닝프로그래밍/12Week-ResNet)
+- [ResNet50](https://github.com/dgyoo-AI/Industrial-AI/tree/main/Programming/머신러닝프로그래밍/12Week-ResNet50)
