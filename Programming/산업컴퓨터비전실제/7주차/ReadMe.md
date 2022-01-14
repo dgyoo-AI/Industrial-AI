@@ -1,34 +1,51 @@
-## È÷½ºÅä±×·¥ ÆòÅºÈ­
+## íˆìŠ¤í† ê·¸ë¨ í‰íƒ„í™”
 
-### ÄÚµå ¼³¸í
+### ì½”ë“œ ì„¤ëª…
 
-»ç¿ëÀÚ·ÎºÎÅÍ R,G,B °ªÀ» ÀÔ·Â¹Ş¾Æ È÷½ºÅä±×·¥À» ±×¸®°í ÆòÅºÈ­ÇÑ ¿µ»ó Ãâ·Â.
+ì‚¬ìš©ìë¡œë¶€í„° R,G,B ê°’ì„ ì…ë ¥ë°›ì•„ íˆìŠ¤í† ê·¸ë¨ì„ ê·¸ë¦¬ê³  í‰íƒ„í™”í•œ ì˜ìƒ ì¶œë ¥.
 
-### °á°ú
+### ê²°ê³¼
 
-## °ø°£ µµ¸ŞÀÎ ÇÊÅÍ¸µ
+![image](https://user-images.githubusercontent.com/79437689/149473388-d0707052-a2a3-44ae-8ec4-fb296345025e.png)
+![image](https://user-images.githubusercontent.com/79437689/149473523-971536d5-3d83-4a0b-8e74-5e3a463144a4.png)
+![image](https://user-images.githubusercontent.com/79437689/149473649-1d616bad-d2ad-4ec4-b102-a076b44eeb42.png)
 
-### ÄÚµå ¼³¸í
+## ê³µê°„ ë„ë©”ì¸ í•„í„°ë§
 
-»ç¿ëÀÚ·ÎºÎÅÍ Bilateral filtering À» À§ÇÑ Diameter, SigmaColor, SigmaSpace ¸¦ ÀÔ·Â¹Ş¾Æ   
-³ëÀÌÁî Á¦°Å ÀüÈÄÀÇ ¿µ»ó Ãâ·Â.
+### ì½”ë“œ ì„¤ëª…
 
-### °á°ú
+ì‚¬ìš©ìë¡œë¶€í„° Bilateral filtering ì„ ìœ„í•œ Diameter, SigmaColor, SigmaSpace ë¥¼ ì…ë ¥ë°›ì•„   
+ë…¸ì´ì¦ˆ ì œê±° ì „í›„ì˜ ì˜ìƒ ì¶œë ¥.
 
-## ÁÖÆÄ¼ö µµ¸ŞÀÎ ÇÊÅÍ¸µ
+### ê²°ê³¼
 
-### ÄÚµå ¼³¸í
+![image](https://user-images.githubusercontent.com/79437689/149474044-0cb989af-78bd-4726-a064-fafc937189be.png)
 
-»ç¿ëÀÚ·ÎºÎÅÍ Low Pass, High Pass ¸¦ ÀÔ·Â¹Ş¾Æ DFT ¸¦ Àû¿ëÇÏ°í ¹İÁö¸§À» ÀÔ·Â¹Ş¾Æ   
-ÁÖÆÄ¼ö µµ¸ŞÀÎ ÇÊÅÍ¸µ(DFT, IDFT)À» Àû¿ëÇÑ ¿µ»ó Ãâ·Â.
+## ì£¼íŒŒìˆ˜ ë„ë©”ì¸ í•„í„°ë§
 
-### °á°ú
+### ì½”ë“œ ì„¤ëª…
 
-## ¸ğÆú·ÎÁö ÇÊÅÍ
+ì‚¬ìš©ìë¡œë¶€í„° Low Pass, High Pass ë¥¼ ì…ë ¥ë°›ì•„ DFT ë¥¼ ì ìš©í•˜ê³  ë°˜ì§€ë¦„ì„ ì…ë ¥ë°›ì•„   
+ì£¼íŒŒìˆ˜ ë„ë©”ì¸ í•„í„°ë§(DFT, IDFT)ì„ ì ìš©í•œ ì˜ìƒ ì¶œë ¥.
 
-### ÄÚµå ¼³¸í
+### ê²°ê³¼
 
-¿µ»óÀ» ÀÌÁøÈ­ÇÑ ÈÄ »ç¿ëÀÚ·ÎºÎÅÍ Erosion, Dilation, Opening, Closing À» ÀÔ·Â¹Ş¾Æ   
-°á°ú ¿µ»ó Ãâ·Â.
+![image](https://user-images.githubusercontent.com/79437689/149474283-34a93fc7-cfdb-457e-a661-45543952bd37.png)
+![image](https://user-images.githubusercontent.com/79437689/149474415-e1d14ae4-1821-4fb6-adde-aa703dc98fd7.png)
 
-### °á°ú
+## ëª¨í´ë¡œì§€ í•„í„°
+
+### ì½”ë“œ ì„¤ëª…
+
+ì˜ìƒì„ ì´ì§„í™”í•œ í›„ ì‚¬ìš©ìë¡œë¶€í„° Erosion, Dilation, Opening, Closing ì„ ì…ë ¥ë°›ì•„   
+ê²°ê³¼ ì˜ìƒ ì¶œë ¥.
+
+### ê²°ê³¼
+
+![image](https://user-images.githubusercontent.com/79437689/149474591-4861216b-f643-49b4-83bd-9ae12700ec23.png)
+![image](https://user-images.githubusercontent.com/79437689/149474666-110684fe-3632-4448-b16f-a738f037fddb.png)
+![image](https://user-images.githubusercontent.com/79437689/149474733-c60b6eea-395d-489b-92ec-e78b892dce63.png)
+![image](https://user-images.githubusercontent.com/79437689/149474838-2878d127-0ee0-4948-a8d0-2f3ea580e135.png)
+
+
+
