@@ -1,4 +1,3 @@
-
 # **산업컴퓨터비전실제** 
 
 ## 자동차 번호판 인식 프로그램.
@@ -48,3 +47,50 @@ Edge 검출을 위한 전처리 작업으로 color 이미지를 gray scale 로 변환한다.
 검출된 번호판 영역을 추가 image processing 하기 위해 별도의 image 로 분리하고 보여지도록 한다.
 
 ![Project](../../Images/산업컴퓨터비전실제/ProjectImage1.jpg)
+
+### 2차 업데이트
+
+Code 실행환경 : PyCharm 2020.3.5(Community Edition)   
+OpenCV 버전 : 4.5.4
+Tesseract-OCR 모듈 : 5.0.0-alpha-619-ge9db
+
+> Load Image
+
+py 파일이 있는 경로에서 '../Img' 에 jpg image 파일을 불러온다.
+
+> Resize
+
+image 크기에 따라 검출되는 영역의 변화를 확인하기 위해 가변적인 입력이 가능하도록 구성하여   
+버튼 클릭 시 크기 변환과 함께 gray scale 로 image 를 변환한다.
+
+> Find Contour
+
+Contour 를 검출하기 위해 Edge 의 Min, Max Threshold 값에 가변이 가능하도록 구성하여   
+버튼 클릭 시 검출되는 Edge 의 수의 변화 확인이 가능하며 Blurring 을 처리하는 Filter 에 따라   
+약간의 차이가 발생한다.
+
+> Draw Contour
+
+검출된 Contour 들 중 면적이 큰 순으로 적용된 갯 수 만큼 원본 이미지에 표시하도록 한다.
+
+> Detect Target & Show Target
+
+1차 버전에서와 동일한 알고리즘을 적용하였다.
+
+> Extract Text
+
+검출된 번호판 영역에서 숫자와 문자 데이터를 추출한다.
+추출하는 알고리즘은 Tesseract-OCR 모듈이 처리를 한다.
+이 프로그램에서 하는 역할은 Tesseract-OCR 모듈이 처리할 수 있는 image 파일을
+입력 데이터로 준비하는 것과 Tesseract-OCR 모듈이 입력 데이터를 처리하는 옵션 설정을 바꿔준다.
+
+![Project](../../Images/산업컴퓨터비전실제/ProjectImage2.jpg)
+
+### 결론
+
+> Detect Target 알고리즘 개선 필요.
+	자동차 image 에 따라 번호판 영역을 검출하지 못하기도 한다.
+
+> OCR Data 출력 오류.
+	검출된 번호판 image 에 따라 OCR Data 가 잘못 출력되기도 한다.   
+	이를 개선하기 위해 Resize 및 Find Contour 과정을 개선할 필요가 있다.
