@@ -5,6 +5,10 @@
 퍼셉트론은 인공신경망의 한 종류이다.   
 이를 구성하는 기본 알고리즘인 논리회로(AND, NAND, OR, XOR)를 프로그램으로 구성하였다.
 
+<img src="../../../Images/MachineLearning/Perceptron/Perceptron1.jpg" width="80%" height="80%" title="px(픽셀) 크기 설정" alt="Perceptron1"></img><br/>
+<img src="../../../Images/MachineLearning/Perceptron/Perceptron2.jpg" width="80%" height="80%" title="px(픽셀) 크기 설정" alt="Perceptron2"></img><br/>
+<img src="../../../Images/MachineLearning/Perceptron/Perceptron3.jpg" width="80%" height="80%" title="px(픽셀) 크기 설정" alt="Perceptron3"></img><br/>
+
 ## **텐서플로 프로그램** 
 
 ### MNIST 인식
